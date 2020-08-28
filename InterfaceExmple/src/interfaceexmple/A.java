@@ -9,11 +9,11 @@ package interfaceexmple;
  *
  * @author chamo
  */
-public class A implements Person,Person1 {
+public class A implements Person, Person1 {
 
     @Override
     public String getName() {
-        return "ChamiViews"; 
+        return "ChamiViews";
     }
-    
+
 }

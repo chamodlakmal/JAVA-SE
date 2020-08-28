@@ -10,5 +10,5 @@ package interfaceexmple;
  * @author chamo
  */
 public class B {
-    
+
 }
