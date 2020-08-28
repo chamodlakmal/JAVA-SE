@@ -1,10 +1,10 @@
-
 package interfaceex;
 
 public class Person implements CommonPerson {
-    String name="Chamod";
-    int age=23;
-    String password="ABC";
+
+    String name = "Chamod";
+    int age = 23;
+    String password = "ABC";
 
     @Override
     public String getName() {
